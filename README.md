@@ -43,8 +43,7 @@ If you find the code useful, please cite the following paper
                   Mert Keser and
                   Alois Knoll and
                   Matthias Rottmann},
-  booktitle    = {Explainable Artificial Intelligence - 3rd World Conference, xAI
-                  2024, },
+  booktitle    = {Explainable Artificial Intelligence - 3rd World Conference, xAI 2025},
   series       = {Communications in Computer and Information Science},
   publisher    = {Springer},
   year         = {2025},
